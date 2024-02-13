@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dqx2hn5xdq33r"
+
+[deps]
+
+files=["res://Sprites/Characters/Character_stats.Character.translation", "res://Sprites/Characters/Character_stats.Team Name.translation", "res://Sprites/Characters/Character_stats.STR.translation", "res://Sprites/Characters/Character_stats.ACC.translation", "res://Sprites/Characters/Character_stats.AGL.translation", "res://Sprites/Characters/Character_stats.SPD.translation"]
+
+source_file="res://Sprites/Characters/Character_stats.csv"
+dest_files=["res://Sprites/Characters/Character_stats.Character.translation", "res://Sprites/Characters/Character_stats.Team Name.translation", "res://Sprites/Characters/Character_stats.STR.translation", "res://Sprites/Characters/Character_stats.ACC.translation", "res://Sprites/Characters/Character_stats.AGL.translation", "res://Sprites/Characters/Character_stats.SPD.translation"]
+
+[params]
+
+compress=true
+delimiter=0
